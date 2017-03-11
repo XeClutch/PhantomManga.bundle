@@ -1,0 +1,14 @@
+[
+	{
+		"id": "install_path",
+		"label": "PhantomManga installation path",
+		"type": "text",
+		"default": "X:\\Mangas\\"
+	},
+	{
+		"id": "install_url",
+		"label": "Site name (or IP:Port) of the virtual directory pointing to the PhantomManga installation path",
+		"type": "text",
+		"default": "127.0.0.1:59268"
+	},
+]
